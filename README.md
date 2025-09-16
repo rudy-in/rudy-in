@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Rudy!
-void?
+
 
 
 ## 🏆 GitHub Highlights
