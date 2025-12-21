@@ -1,5 +1,5 @@
 # Hi there im Atix!
-I'm a 14 year old programmer from India , my Hobbies are to code and play Valorant and Minecraft.
+I'm a 14 year old programmer from India, i developed **MUG** aiming to improve GIT and JJ (Jujutsu)
 
 ---
 
