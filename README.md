@@ -1,5 +1,5 @@
 # Hi there im Atix!
-I'm a 14 year old programmer from India, i developed **MUG** aiming to improve GIT and JJ (Jujutsu)
+I'm a 14 year old programmer from India
 
 ---
 
