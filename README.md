@@ -1,5 +1,5 @@
 # Hi there im Atix!
-I'm a 14 year old programmer from India
+I'm a 14 year old programmer from India and i am the creator of Wyzer Programming Language
 
 ---
 
